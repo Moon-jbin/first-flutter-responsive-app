@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## 기존 오픈소스 (Flutter 반응형)를 따라 만든것입니다.
+기존 오픈소스 Flutter 반응형을 따라서 만든 것이며,
+해당 오픈소스의 출처를 남기겠습니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+이 코드에는 기존 오픈소스에 대한 설명이 첨부되어 있습니다.
+하지만 정확하진 않겠지만 왜 사용이 되는지를 설명되어있으니 참고해주시며,
+잘못된 부분은 지적해 주시길 바랍니다. 감사합니다.
+ 
